@@ -1,0 +1,13 @@
+{
+  "name": "html2design-backend",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@fastify/cors": "^11.2.0",
+    "fastify": "^5.8.2",
+    "puppeteer-core": "^24.0.0"
+  }
+}
